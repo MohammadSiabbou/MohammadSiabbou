@@ -13,6 +13,7 @@
 ![tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![codewars](https://www.codewars.com/users/simo55875/badges/small)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadSiabbou&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
