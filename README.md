@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mohammad , A Full Stack Developer !
+### Hi there 👋 I'm Mohammad, A Full Stack Developer!
 
 #### My Skills :
 
@@ -7,6 +7,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vuejs-20232A?style=for-the-badge&logo=vue.js)
 ![MySql](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
